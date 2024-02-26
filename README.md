@@ -1,4 +1,30 @@
-### Hi there 👋
+# KVasquesMoviaUTN
+
+Hey 👋, I'm Kalil!
+
+[![Linkedin](https://img.shields.io/badge/-marrkbau-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalil-vasques-movia/)](https://www.linkedin.com/in/kalil-vasques-movia/)
+
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalilvasquesmovia@gmail.com)](mailto:kalilvasquesmovia@gmail.com)
+
+A WEB DEVELOPMENT Enthusiast 🚀.
+
+![GIF](link-to-your-gif)
+
+## About Me! 🙌
+
+👨🏽‍💻 I’m currently studying Information Systems Engineering at National Technological University (UTN).
+
+🌱 I'm delving into JAVA with Spring Boot, aiming to bolster my expertise in backend development using this powerful framework.
+
+🤔 Currently, my interests lie in both front-end and backend web development, as I strive to build a well-rounded skill set in the field.
+
+💬 Ask me about anything, I love to answer!
+
+### <🛠> Tech Stack <🛠>
+- 
+
+### <📊> GitHub Stats </📊>
+- 
 
 <!--
 **KVasquesMoviaUTN/KVasquesMoviaUTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
