@@ -8,7 +8,7 @@ Hey 👋, I'm Kalil!
 
 A WEB DEVELOPMENT Enthusiast 🚀.
 
-![GIF](link-to-your-gif)
+![GIF](<iframe src="https://giphy.com/embed/QDjpIL6oNCVZ4qzGs7" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-work-computer-working-QDjpIL6oNCVZ4qzGs7">via GIPHY</a></p>)
 
 ## About Me! 🙌
 
@@ -33,7 +33,7 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 </div>
 
 ### <📊> GitHub Stats </📊>
-- [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KVasquesMoviaUTN&layout=compact&theme=dark&border_color=00cc00)](https://github.com/KVasquesMoviaUTN)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KVasquesMoviaUTN&layout=compact&theme=dark&border_color=00cc00)](https://github.com/KVasquesMoviaUTN)
 
 
 <!--
