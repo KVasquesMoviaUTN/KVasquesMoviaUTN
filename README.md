@@ -2,9 +2,9 @@
 
 Hey 👋, I'm Kalil!
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalil-vasques-movia/)](https://www.linkedin.com/in/kalil-vasques-movia/)
+[![Linkedin](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalil-vasques-movia/)](https://www.linkedin.com/in/kalil-vasques-movia/)
 
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalilvasquesmovia@gmail.com)](mailto:kalilvasquesmovia@gmail.com)
+[![Email](https://img.shields.io/badge/-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalilvasquesmovia@gmail.com)](mailto:kalilvasquesmovia@gmail.com)
 
 A WEB DEVELOPMENT Enthusiast 🚀.
 
