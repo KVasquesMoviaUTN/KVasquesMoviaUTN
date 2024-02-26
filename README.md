@@ -21,11 +21,11 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-- [![Estadísticas de GitHub de KVasquesMoviaUTN](https://github-readme-stats.vercel.app/api?username=KVasquesMoviaUTN)](https://github.com/KVasquesMoviaUTN)
+- ![HTML](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
 
 
 ### <📊> GitHub Stats </📊>
-- [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KVasquesMoviaUTN&layout=compact&theme=dark&border_color=00FF00)](https://github.com/KVasquesMoviaUTN)
+- [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KVasquesMoviaUTN&layout=compact&theme=dark&border_color=00cc00)](https://github.com/KVasquesMoviaUTN)
 
 
 <!--
