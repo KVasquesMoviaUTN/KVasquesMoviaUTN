@@ -21,19 +21,14 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-
-Para mostrar las imágenes uno al lado del otro, puedes usar la etiqueta <div> y establecer su estilo para que tengan una presentación en línea (display: inline-block;) y un margen (margin) para separarlas. Aquí tienes cómo puedes hacerlo con las imágenes que proporcionaste:
-
-html
-Copy code
-<div>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30" height="30" style="display: inline-block; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="30" height="30" style="display: inline-block; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="30" height="30" style="display: inline-block; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="30" height="30" style="display: inline-block; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="30" height="30" style="display: inline-block; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="SQL" width="30" height="30" style="display: inline-block; margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="30" height="30" style="display: inline-block; margin-right: 10px;">
+<div style="margin-right: -5px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30" height="30" style="display: inline-block; margin-right: 5px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="30" height="30" style="display: inline-block; margin-right: 5px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="30" height="30" style="display: inline-block; margin-right: 5px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="30" height="30" style="display: inline-block; margin-right: 5px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="30" height="30" style="display: inline-block; margin-right: 5px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="SQL" width="30" height="30" style="display: inline-block; margin-right: 5px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="30" height="30" style="display: inline-block; margin-right: 5px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino" width="30" height="30" style="display: inline-block;">
 </div>
 
