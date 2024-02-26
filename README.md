@@ -23,9 +23,9 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 ### <🛠> Tech Stack <🛠>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30" height="30">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="30" height="30">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg.svg" alt="PHP" width="30" height="30">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="30" height="30">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="30" height="30">
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg.svg" alt="SQL" width="30" height="30">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="SQL" width="30" height="30">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="30" height="30">
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino" width="30" height="30">
 
