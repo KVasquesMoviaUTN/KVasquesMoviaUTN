@@ -2,7 +2,7 @@
 
 Hey 👋, I'm Kalil!
 
-[![Linkedin](https://img.shields.io/badge/-KalilVasquesMovia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalil-vasques-movia/)](https://www.linkedin.com/in/kalil-vasques-movia/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalil-vasques-movia/)](https://www.linkedin.com/in/kalil-vasques-movia/)
 
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kalilvasquesmovia@gmail.com)](mailto:kalilvasquesmovia@gmail.com)
 
@@ -21,7 +21,8 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-- 
+- [![Estadísticas de GitHub de KVasquesMoviaUTN](https://github-readme-stats.vercel.app/api?username=KVasquesMoviaUTN)](https://github.com/KVasquesMoviaUTN)
+
 
 ### <📊> GitHub Stats </📊>
 - 
