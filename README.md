@@ -21,11 +21,9 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-<div style="position: relative; width: 100px; height: 100px;">
-    <img src="https://via.placeholder.com/150/333333/FFFFFF?text=+" alt="Black Background" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 20px; height: 20px;">
+<div style="background-color: #666; padding: 10px; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="20" height="20">
 </div>
-
 
 ### <📊> GitHub Stats </📊>
 - [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KVasquesMoviaUTN&layout=compact&theme=dark&border_color=00cc00)](https://github.com/KVasquesMoviaUTN)
