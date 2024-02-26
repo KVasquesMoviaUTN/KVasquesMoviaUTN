@@ -22,7 +22,7 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 
 ### <🛠> Tech Stack <🛠>
 <div style="background-color: #666; padding: 10px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="20" height="20">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30" height="30">
 </div>
 
 ### <📊> GitHub Stats </📊>
