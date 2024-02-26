@@ -21,8 +21,9 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-<div style="width: 100px; height: 100px; background-image: url('https://via.placeholder.com/150/333333/FFFFFF?text=+');">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="20" height="20" style="margin: 40px 0 0 40px;">
+<div style="position: relative; width: 100px; height: 100px; background-color: black;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+    <img src="https://via.placeholder.com/150/333333/FFFFFF?text=+" alt="Black Background" style="width: 100%; height: 100%;">
 </div>
 
 ### <📊> GitHub Stats </📊>
