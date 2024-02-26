@@ -22,7 +22,7 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-<div style="margin-right: -5px;">
+<div >
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30" height="30" style="display: inline-block; margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="30" height="30" style="display: inline-block; margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="30" height="30" style="display: inline-block; margin-right: 15px;">
