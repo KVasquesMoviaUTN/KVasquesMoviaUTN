@@ -25,7 +25,7 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 
 
 ### <📊> GitHub Stats </📊>
-- [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KVasquesMoviaUTN)](https://github.com/KVasquesMoviaUTN)
+- [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KVasquesMoviaUTN&layout=compact)](https://github.com/KVasquesMoviaUTN)
 
 
 <!--
