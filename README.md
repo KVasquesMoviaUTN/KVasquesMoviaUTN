@@ -21,7 +21,7 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-<div style="background-color: #333; padding: 10px; display: inline-block;">
+<div style="background-color: #666; padding: 10%; display: inline-block;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML Icon" width="20" height="20">
 </div>
 
