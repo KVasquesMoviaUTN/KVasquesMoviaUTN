@@ -23,13 +23,13 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 
 ### <🛠> Tech Stack <🛠>
 <div style="margin-right: -5px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30" height="30" style="display: inline-block; margin-right: 5px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="30" height="30" style="display: inline-block; margin-right: 5px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="30" height="30" style="display: inline-block; margin-right: 5px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="30" height="30" style="display: inline-block; margin-right: 5px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30" height="30" style="display: inline-block; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="C" width="30" height="30" style="display: inline-block; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Dark.svg" alt="PHP" width="30" height="30" style="display: inline-block; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" alt="Java" width="30" height="30" style="display: inline-block; margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="JavaScript" width="30" height="30" style="display: inline-block; margin-right: 5px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="SQL" width="30" height="30" style="display: inline-block; margin-right: 5px;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="30" height="30" style="display: inline-block; margin-right: 5px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" alt="SQL" width="30" height="30" style="display: inline-block; margin-right: 15px;">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" width="30" height="30" style="display: inline-block; margin-right: 15px;">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="Arduino" width="30" height="30" style="display: inline-block;">
 </div>
 
