@@ -21,7 +21,7 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-<div style="width: 100px; height: 100px; background-image: url('https://via.placeholder.com/150/333333/FFFFFF?text=+'); background-size: cover;">
+<div style="width: 100px; height: 100px; background-image: url('https://via.placeholder.com/150/333333/FFFFFF?text=+');">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="20" height="20" style="margin: 40px 0 0 40px;">
 </div>
 
