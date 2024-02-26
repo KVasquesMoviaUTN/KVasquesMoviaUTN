@@ -21,9 +21,13 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-<div style="background-color: #666; padding: 10px; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30" height="30">
-</div>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML" width="30" height="30">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" alt="HTML" width="30" height="30">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java.svg" alt="HTML" width="30" height="30">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="HTML" width="30" height="30">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/SQL.svg" alt="HTML" width="30" height="30">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python.svg" alt="HTML" width="30" height="30">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino.svg" alt="HTML" width="30" height="30">
 
 ### <📊> GitHub Stats </📊>
 - [![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=KVasquesMoviaUTN&layout=compact&theme=dark&border_color=00cc00)](https://github.com/KVasquesMoviaUTN)
