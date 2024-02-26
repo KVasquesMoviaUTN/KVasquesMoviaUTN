@@ -21,7 +21,7 @@ A WEB DEVELOPMENT Enthusiast 🚀.
 💬 Ask me about anything, I love to answer!
 
 ### <🛠> Tech Stack <🛠>
-- ![HTML](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="HTML Icon" width="20" height="20">
 
 
 ### <📊> GitHub Stats </📊>
