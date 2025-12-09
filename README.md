@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I am a Systems Engineering student at UTN turned Full Stack Developer. I don't just write code; I design scalable, efficient systems. My academic background gives me the engineering fundamentals (Algorithms, Data Structures), while my professional focus is on shipping modern, robust web applications.
+I am a Systems Engineer at UTN turned Full Stack Developer. I don't just write code; I design scalable, efficient systems. My academic background gives me the engineering fundamentals (Algorithms, Data Structures), while my professional focus is on shipping modern, robust web applications.
 
 * **Current Focus:** Architecting scalable backends with **Java Spring Boot** and **NestJS**.
 * **Engineering Approach:** I focus on Clean Architecture, SOLID principles, and efficient database design.
