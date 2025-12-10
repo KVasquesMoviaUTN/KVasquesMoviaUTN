@@ -22,14 +22,6 @@ I am a Systems Engineer at UTN turned Full Stack Developer. I don't just write c
 
 ---
 
-### 🏆 Featured Projects
-*(Note: Pin your best repositories below this section for maximum impact)*
-
-* **[Project Name 1]:** A full-stack application using NestJS and Next.js implementing JWT auth and RBAC.
-* **[Project Name 2]:** RESTful API built with Java Spring Boot demonstrating microservices architecture.
-
----
-
 ### 📬 Let's Connect
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
